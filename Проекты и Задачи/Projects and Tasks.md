@@ -16,11 +16,13 @@ Projects and Tasks
 </p>
 <p>Чтобы создать задачу, надо нажать на кнопку "Создать задачу"
 </p>
-<p>Откроется вкладка создания задачи. Требуется ввести "Название", "Вес", и "Текст комментария", а также выбрать "Зависимую задачу" и "Группу", и нажать кнопку <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/Save.PNG">
+<p>Откроется вкладка создания задачи. Требуется ввести "Название", "Вес", и "Текст комментария", а также выбрать "Зависимую задачу" и 
+"Группу", и нажать кнопку <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/Save.PNG">
 </p>
 <p>Можно выбрать тег, для быстрого поиска похожих задач и проектов.
 </p>
-<p>После создания задачи она появится в проекте. В правой части, напротив названия задачи есть кнопки "Декомпозировать", "Обновить", "Комментарии", "В работе", "Дерево проекта", "Удалить".
+<p>После создания задачи она появится в проекте. В правой части, напротив названия задачи есть кнопки <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/decompose.PNG"> "Декомпозировать", <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/update.PNG">
+ "Обновить", <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/comments.PNG"> "Комментарии", <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/work.PNG"> "В работе", <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/ptr.PNG"> "Дерево проекта", <img src="https://github.com/UGroup/ScrumblerBook/blob/master/PIC/del.PNG"> "Удалить".
 </p>
 <p>Кнопка  **"Декомпозировать"**
  нужна для разбиения задачи на более маленькие подзадачи.
