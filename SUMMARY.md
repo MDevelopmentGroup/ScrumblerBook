@@ -14,5 +14,7 @@
 * [Events] (События/README.md)
 * [Companies](Компании/README.md)
     * [Companies] (Компании/Companies.md)
+* [Autoproject](Автопроект/README.md)
+    * [Autoproject] (Автопроект/Автопроект.md)
 * [Settings](Настройки/README.md)
     * [Settings](Настройки/Settings.md)
