@@ -7,6 +7,7 @@
 * [Accessible for adoption] (Доступные к принятию/README.md)
 * [Users] (Пользователи/README.md)
 * [Massages] (Сообщения/README.md)
+* [Groups] (Группы/README.md)
 * [Events] (События/README.md)
 * [Companies](Компании/README.md)
 * [Settings](Настройки/README.md)
