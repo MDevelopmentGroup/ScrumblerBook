@@ -6,4 +6,4 @@
     * [Project Tree](Дерево Проектов/Project Tree.md)
 * [Companies](Компании/README.md)
 * [Settings](Настройки/README.md)
-    
+    * [Settings](Настройки/Settings.md)
