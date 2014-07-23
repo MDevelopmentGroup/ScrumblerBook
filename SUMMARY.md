@@ -9,7 +9,7 @@
 * [Underway](В работе/README.md)
     * [Underway](В работе/В работе.md)
 * [Accessible for adoption](Доступные к принятию/README.md)
-    * [Chapter Accessible for adoption](Глава Доступные к принятию.md)
+    * [Chapter Accessible for adoption](Доступные к принятию/Глава Доступные к принятию.md)
 * [Users](Пользователи/README.md)
     * [Users](Пользователи/Users.md)
 * [Messages](Сообщения/README.md)
