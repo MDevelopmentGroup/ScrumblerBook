@@ -1,0 +1,2 @@
+Accessible for adoption
+=============
