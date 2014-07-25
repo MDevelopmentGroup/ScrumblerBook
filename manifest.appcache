@@ -1,9 +1,9 @@
 CACHE MANIFEST
-# Revision 1406273437513
+# Revision 1406274454481
 
 CACHE:
-Группы/Groups.html
 Группы/README.html
+Группы/Groups.html
 index.html
 Автопроект/README.html
 Автопроект/Автопроект.html
@@ -14,13 +14,13 @@ index.html
 Доступные к принятию/README.html
 Доступные к принятию/Глава Доступные к принятию.html
 Компании/Companies.html
-Компании/README.html
 Личный кабинет/README.html
 Личный кабинет/Личный кабинет.html
+Компании/README.html
 Настройки/README.html
 Настройки/Settings.html
-Пользователи/README.html
 Пользователи/Users.html
+Пользователи/README.html
 Проекты и Задачи/Projects and Tasks.html
 Проекты и Задачи/README.html
 События/Events.html
