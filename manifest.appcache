@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1406184732138
+# Revision 1406273437513
 
 CACHE:
 Группы/Groups.html
@@ -25,8 +25,8 @@ index.html
 Проекты и Задачи/README.html
 События/Events.html
 События/README.html
-Сообщения/README.html
 Сообщения/Messages.html
+Сообщения/README.html
 Сценарий работы/README.html
 Сценарий работы/Создание задачи.html
 gitbook/app.js
