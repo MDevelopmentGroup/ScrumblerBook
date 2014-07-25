@@ -18,6 +18,6 @@ cp -r $HOME/new/* $catalog
 git add .
 git commit -a -m "This is Scrumbler"
 git push origin gh-pages
-#cd $HOME
-#rm  -r  ScrumblerBook
-#rm - r new
+cd $HOME
+rm  -rf  ScrumblerBook
+rm -rf new
